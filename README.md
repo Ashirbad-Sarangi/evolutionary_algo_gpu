@@ -1,1 +1,1 @@
-This is a project to study various algorithms and analyse their effective working
+This is a Mini Project done by me while my time as a M.Tech student of first semester at Indian Institute of Space Science and Technology, Trivandrum as a part of the Data Mining course. The aim of the project is learn the application of Evolutionary Algorithm : Ant Colony Optimisation to try and implement it to the Travelling Salesman Problem in the map of India. 
